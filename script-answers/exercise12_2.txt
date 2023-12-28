@@ -1,0 +1,13 @@
+Script started on 2023-12-22 11:07:48+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="25"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;topa@kone: ~[01;32mtopa@kone[00m:[01;34m~[00m$ exitdocker container run -it ubuntu bash
+[?2004l[?2004h]0;root@338b4c8a13dc: /root@338b4c8a13dc:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@338b4c8a13dc: /root@338b4c8a13dc:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@338b4c8a13dc: /root@338b4c8a13dc:/# [Kexit
+[?2004lexit
+[?2004h]0;topa@kone: ~[01;32mtopa@kone[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2023-12-22 11:09:12+02:00 [COMMAND_EXIT_CODE="0"]
